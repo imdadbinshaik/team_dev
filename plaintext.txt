@@ -2,3 +2,4 @@ my name is shaik imdad
 i have around 4 years of experiance in oracle SQL & PLSQL
 i am working in corefront technologies
 and my project is dll database maintenence,its provides asset based finance to agri,indus & fin sectors
+i am expert in creating objects like tables,views,indexes,sequence and synonyms
